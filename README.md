@@ -1,7 +1,7 @@
 <h1 align='center'>Hi coders 🖥️, I'm Rafa Alcantar</h1>
 
-<p align='left'>👨‍💻 Software Engineer. | 📊 ML Engineer | 📹 Machine Vision Engineer  </p>
-<p align='left'>Student on the platforms Udemy, Platzi, and Santander Open Academy</p>
+<h2 align='left'>👨‍💻 Software Engineer. | 📊 ML Engineer | 📹 Machine Vision Engineer  </h2>
+<h2 align='left'>Student on the platforms Udemy, Platzi, and Santander Open Academy</h2>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/rafael-alcantar-juarez/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
