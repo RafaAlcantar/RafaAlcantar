@@ -13,7 +13,7 @@
 ---
 ## 📫 Contact
 
-- 📧 Email: [youremail@example.com](mailto:rafa.cia.aj.11@gmail.com)  
+- 📧 Email: [yrafa.cia.aj.11@gmail.com](mailto:rafa.cia.aj.11@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafael-alcantar-juarez/)  
 - 🧑‍💻 [GitHub](https://github.com/RafaAlcantar)  
 - 📍 Based in Mexico City, Mexico
