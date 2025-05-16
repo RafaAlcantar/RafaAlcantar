@@ -1,18 +1,49 @@
-<h1 align='center'>Hi coders 🖥️, I'm Rafa Alcantar</h1>
+## Hi coders
+## I'm Rafa Alcantar
 
-<h2 align='left'>👨‍💻 Software Engineer. | 📊 ML Engineer | 📹 Machine Vision Engineer  </h2>
-<h2 align='left'>Student on the platforms Udemy, Platzi, and Santander Open Academy</h2>
 
-<div align='center'>
-  <a href="https://www.linkedin.com/in/rafael-alcantar-juarez/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+💻 Software Engineer
 
-<h3>👨‍💻 Languages</h3>
+📊 ML Engineer
 
-<div style="display: flex; gap: 10px;">
-  <img style='height: 30px;' src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-</div>
+📹 Machine Vision Engineer
+
+👨‍💻 Student on the platforms Udemy, Platzi, and Santander Open Academy
+
+---
+## 📫 Contact
+
+- 📧 Email: [youremail@example.com](mailto:rafa.cia.aj.11@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-alcantar-juarez/)  
+- 🧑‍💻 [GitHub](https://github.com/RafaAlcantar)  
+- 📍 Based in Mexico City, Mexico
+
+---
+## 🧰 Tech Stack & Programming Languages
+
+| Language / Tech   |  Proficiency   |
+|-------------------|----------------|
+| 🎯 C# / .NET      | ⭐⭐⭐⭐☆   |
+| 💻 C++            | ⭐⭐⭐⭐☆   |
+| 🐍 Python         | ⭐⭐⭐⭐☆   |
+| ☕ Java           | ⭐⭐⭐☆ ☆   |
+| 💾 SQL / MySQL    | ⭐⭐⭐☆ ☆   |
+| 🧑‍💻 Git / GitHub   | ⭐⭐⭐⭐☆   |
+| 👁️ OpenCV         | ⭐⭐⭐⭐⭐  |
+
+
+## 🎓 Certifications
+
+- 📜 **AWS Certified Cloud Practitioner** *(In progress)*  
+- 🎓 **AI Master's Degree – CENIDET**  
+- 📘 **Computer Systems Engineering – Instituto Tecnológico de Cuautla**  
+- 📚 Courses from: Udemy, Platzi, Santander Scholarships
+
+## 🧪 Currently Learning
+
+- ☁️ **AWS Cloud Practitioner** – Building cloud knowledge with AWS fundamentals  
+- 🤖 **TensorFlow** – Exploring deep learning and neural networks  
+- 🐘 **PostgreSQL** – Expanding SQL skills with advanced queries  
+- 🌐 **.NET Core for Web Development** – Developing web apps with Razor Pages and APIs  
+- 📊 **Data Science** – Python, pandas, matplotlib and real-world datasets
 
