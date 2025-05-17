@@ -48,5 +48,6 @@
 - 📊 **Data Science** – Python, pandas, matplotlib and real-world datasets
 
 ## :zap: Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
