@@ -1,1 +1,8 @@
 
+# .github/recent-activity.config.yml
+
+max: 5
+sortBy: timestamp
+exclude:
+  - type: CreateEvent
+  - type: WatchEvent
