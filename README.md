@@ -47,3 +47,6 @@
 - 🌐 **.NET Core for Web Development** – Developing web apps with Razor Pages and APIs  
 - 📊 **Data Science** – Python, pandas, matplotlib and real-world datasets
 
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update_end-->
