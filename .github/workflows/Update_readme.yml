@@ -20,6 +20,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Update recent activity
-        uses: Readme-Workflows/recent_activity@v2.4.1
+        uses: Readme-Workflows/recent-activity@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
