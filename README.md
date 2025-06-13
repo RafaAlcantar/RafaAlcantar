@@ -49,13 +49,13 @@
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [RafaAlcantar/CNN_Platzi](https://github.com/RafaAlcantar/CNN_Platzi) from [platzi/convolucionales](https://github.com/platzi/convolucionales)
-2. 🔱 Forked [RafaAlcantar/jaak-android-kyc-example](https://github.com/RafaAlcantar/jaak-android-kyc-example) from [jaak-ai/jaak-android-kyc-example](https://github.com/jaak-ai/jaak-android-kyc-example)
-3. 🔱 Forked [RafaAlcantar/jaak-docs-backup](https://github.com/RafaAlcantar/jaak-docs-backup) from [jaak-ai/jaak-docs-backup](https://github.com/jaak-ai/jaak-docs-backup)
-4. 🔱 Forked [RafaAlcantar/jaak-storage](https://github.com/RafaAlcantar/jaak-storage) from [jaak-ai/jaak-storage](https://github.com/jaak-ai/jaak-storage)
-5. 🔱 Forked [RafaAlcantar/face-detector-react-example](https://github.com/RafaAlcantar/face-detector-react-example) from [jaak-ai/face-detector-react-example](https://github.com/jaak-ai/face-detector-react-example)
+1. 🔱 Forked [RafaAlcantar/data-science-from-scratch](https://github.com/RafaAlcantar/data-science-from-scratch) from [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+2. 🔱 Forked [RafaAlcantar/CNN_Platzi](https://github.com/RafaAlcantar/CNN_Platzi) from [platzi/convolucionales](https://github.com/platzi/convolucionales)
+3. 🔱 Forked [RafaAlcantar/jaak-android-kyc-example](https://github.com/RafaAlcantar/jaak-android-kyc-example) from [jaak-ai/jaak-android-kyc-example](https://github.com/jaak-ai/jaak-android-kyc-example)
+4. 🔱 Forked [RafaAlcantar/jaak-docs-backup](https://github.com/RafaAlcantar/jaak-docs-backup) from [jaak-ai/jaak-docs-backup](https://github.com/jaak-ai/jaak-docs-backup)
+5. 🔱 Forked [RafaAlcantar/jaak-storage](https://github.com/RafaAlcantar/jaak-storage) from [jaak-ai/jaak-storage](https://github.com/jaak-ai/jaak-storage)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 13th, 2025, 1:20:32 AM
+Last Updated: Friday, June 13th, 2025, 12:34:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
