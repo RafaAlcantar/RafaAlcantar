@@ -49,13 +49,13 @@
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [RafaAlcantar/data-science-from-scratch](https://github.com/RafaAlcantar/data-science-from-scratch) from [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
-2. 🔱 Forked [RafaAlcantar/CNN_Platzi](https://github.com/RafaAlcantar/CNN_Platzi) from [platzi/convolucionales](https://github.com/platzi/convolucionales)
-3. 🔱 Forked [RafaAlcantar/jaak-android-kyc-example](https://github.com/RafaAlcantar/jaak-android-kyc-example) from [jaak-ai/jaak-android-kyc-example](https://github.com/jaak-ai/jaak-android-kyc-example)
-4. 🔱 Forked [RafaAlcantar/jaak-docs-backup](https://github.com/RafaAlcantar/jaak-docs-backup) from [jaak-ai/jaak-docs-backup](https://github.com/jaak-ai/jaak-docs-backup)
-5. 🔱 Forked [RafaAlcantar/jaak-storage](https://github.com/RafaAlcantar/jaak-storage) from [jaak-ai/jaak-storage](https://github.com/jaak-ai/jaak-storage)
+1. 🔱 Forked [RafaAlcantar/Solid-Principles-Python](https://github.com/RafaAlcantar/Solid-Principles-Python) from [platzi/solid-principles-python](https://github.com/platzi/solid-principles-python)
+2. 🔱 Forked [RafaAlcantar/deep_learning_PLATZI](https://github.com/RafaAlcantar/deep_learning_PLATZI) from [platzi/deep-learning](https://github.com/platzi/deep-learning)
+3. 🔱 Forked [RafaAlcantar/machine_learning_PLATZI](https://github.com/RafaAlcantar/machine_learning_PLATZI) from [platzi/machine-learning](https://github.com/platzi/machine-learning)
+4. 🔱 Forked [RafaAlcantar/Computer_Vision_PLATZI](https://github.com/RafaAlcantar/Computer_Vision_PLATZI) from [platzi/computer-vision](https://github.com/platzi/computer-vision)
+5. 🔱 Forked [RafaAlcantar/data-science-from-scratch](https://github.com/RafaAlcantar/data-science-from-scratch) from [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 14th, 2025, 12:30:49 PM
+Last Updated: Sunday, June 15th, 2025, 1:28:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
