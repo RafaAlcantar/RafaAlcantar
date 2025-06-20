@@ -49,13 +49,13 @@
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [RafaAlcantar/Solid-Principles-Python](https://github.com/RafaAlcantar/Solid-Principles-Python) from [platzi/solid-principles-python](https://github.com/platzi/solid-principles-python)
-2. 🔱 Forked [RafaAlcantar/deep_learning_PLATZI](https://github.com/RafaAlcantar/deep_learning_PLATZI) from [platzi/deep-learning](https://github.com/platzi/deep-learning)
-3. 🔱 Forked [RafaAlcantar/machine_learning_PLATZI](https://github.com/RafaAlcantar/machine_learning_PLATZI) from [platzi/machine-learning](https://github.com/platzi/machine-learning)
-4. 🔱 Forked [RafaAlcantar/Computer_Vision_PLATZI](https://github.com/RafaAlcantar/Computer_Vision_PLATZI) from [platzi/computer-vision](https://github.com/platzi/computer-vision)
-5. 🔱 Forked [RafaAlcantar/data-science-from-scratch](https://github.com/RafaAlcantar/data-science-from-scratch) from [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+1. 🔱 Forked [RafaAlcantar/document-detector-js-example](https://github.com/RafaAlcantar/document-detector-js-example) from [jaak-ai/document-detector-js-example](https://github.com/jaak-ai/document-detector-js-example)
+2. 🔱 Forked [RafaAlcantar/yolov4-opencv-python](https://github.com/RafaAlcantar/yolov4-opencv-python) from [Asadullah-Dal17/yolov4-opencv-python](https://github.com/Asadullah-Dal17/yolov4-opencv-python)
+3. 🔱 Forked [RafaAlcantar/YOLO-object-detection-with-OpenCV](https://github.com/RafaAlcantar/YOLO-object-detection-with-OpenCV) from [yash42828/YOLO-object-detection-with-OpenCV](https://github.com/yash42828/YOLO-object-detection-with-OpenCV)
+4. 🔱 Forked [RafaAlcantar/object-detection-opencv](https://github.com/RafaAlcantar/object-detection-opencv) from [arunponnusamy/object-detection-opencv](https://github.com/arunponnusamy/object-detection-opencv)
+5. 🔱 Forked [RafaAlcantar/Solid-Principles-Python](https://github.com/RafaAlcantar/Solid-Principles-Python) from [platzi/solid-principles-python](https://github.com/platzi/solid-principles-python)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 19th, 2025, 12:34:41 PM
+Last Updated: Friday, June 20th, 2025, 1:19:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
