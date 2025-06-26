@@ -49,13 +49,13 @@
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [RafaAlcantar/document-detector-js-example](https://github.com/RafaAlcantar/document-detector-js-example) from [jaak-ai/document-detector-js-example](https://github.com/jaak-ai/document-detector-js-example)
-2. 🔱 Forked [RafaAlcantar/yolov4-opencv-python](https://github.com/RafaAlcantar/yolov4-opencv-python) from [Asadullah-Dal17/yolov4-opencv-python](https://github.com/Asadullah-Dal17/yolov4-opencv-python)
-3. 🔱 Forked [RafaAlcantar/YOLO-object-detection-with-OpenCV](https://github.com/RafaAlcantar/YOLO-object-detection-with-OpenCV) from [yash42828/YOLO-object-detection-with-OpenCV](https://github.com/yash42828/YOLO-object-detection-with-OpenCV)
-4. 🔱 Forked [RafaAlcantar/object-detection-opencv](https://github.com/RafaAlcantar/object-detection-opencv) from [arunponnusamy/object-detection-opencv](https://github.com/arunponnusamy/object-detection-opencv)
-5. 🔱 Forked [RafaAlcantar/Solid-Principles-Python](https://github.com/RafaAlcantar/Solid-Principles-Python) from [platzi/solid-principles-python](https://github.com/platzi/solid-principles-python)
+1. 🔱 Forked [RafaAlcantar/tensorflow-gpu-env](https://github.com/RafaAlcantar/tensorflow-gpu-env) from [LuisReyes98/tensorflow-gpu-env](https://github.com/LuisReyes98/tensorflow-gpu-env)
+2. 🔱 Forked [RafaAlcantar/document-detector-js-example](https://github.com/RafaAlcantar/document-detector-js-example) from [jaak-ai/document-detector-js-example](https://github.com/jaak-ai/document-detector-js-example)
+3. 🔱 Forked [RafaAlcantar/yolov4-opencv-python](https://github.com/RafaAlcantar/yolov4-opencv-python) from [Asadullah-Dal17/yolov4-opencv-python](https://github.com/Asadullah-Dal17/yolov4-opencv-python)
+4. 🔱 Forked [RafaAlcantar/YOLO-object-detection-with-OpenCV](https://github.com/RafaAlcantar/YOLO-object-detection-with-OpenCV) from [yash42828/YOLO-object-detection-with-OpenCV](https://github.com/yash42828/YOLO-object-detection-with-OpenCV)
+5. 🔱 Forked [RafaAlcantar/object-detection-opencv](https://github.com/RafaAlcantar/object-detection-opencv) from [arunponnusamy/object-detection-opencv](https://github.com/arunponnusamy/object-detection-opencv)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 25th, 2025, 12:35:26 PM
+Last Updated: Thursday, June 26th, 2025, 1:20:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
